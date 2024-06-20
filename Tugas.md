@@ -298,6 +298,3 @@ body {
 
 ```
 ### Hasil
-![gambar](TugasUlangan/asettugas/BR.jpg)
-
-![gambar](R.jpg)
